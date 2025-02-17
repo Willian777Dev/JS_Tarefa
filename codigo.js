@@ -10,4 +10,5 @@ const adiciona = (...numeros) => numeros.reduce((acc, num) => acc + num, 0);
 console.log(adiciona(0, 7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77, 84, 91, 98, 994));
 
 module.exports = { getPrimeiro, getUltimo };
-module.exports = { divisor }
+module.exports = { divisor };
+module.exports = { adiciona };

@@ -1,6 +1,7 @@
 const divisor = require('./codigo')
 const getPrimeiro = require('./codigo')
 const getUltimo = require('./codigo')
+const adiciona = require('.codigo/')
 
 describe('Exercício Módulo - 2', () => {
     
